@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "midtrans/midtrans-php": "^2.5",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
