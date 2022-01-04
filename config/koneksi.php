@@ -8,7 +8,7 @@ date_default_timezone_set('Asia/Jakarta');
 //4. adanya nama db = db_sewakamera
 
 //membuat koneksi ke dbms mysql
-$koneksi = new mysqli("localhost","egoprojo_egoprojo","Kadal1234k","egoprojo_gja");
+$koneksi = new mysqli("localhost","root","","egopro");
 if(!$koneksi) {
     echo "Koneksi gagal";
 } else {
